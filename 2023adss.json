@@ -1,10 +1,10 @@
 {
- "uv":"other",
+ "uv":"yes",
 "directlink": "https://fotlivepro.com/",
  "playstore": "https://fotlivepro.com/",
  "title": "Alert Update",
- "reason":"New Version(ပိုကောင်းတဲ့ ဗားရှင်းအသစ်ထွက်ပါပြီ မိမိအဆင်ပြေတာနဲ့ Update လုပ်ပါ)",
- "dis":true,
+ "reason":"New Version",
+ "dis":false,
  "backuponoff":"off",
 
 
