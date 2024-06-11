@@ -1,10 +1,10 @@
 {
- "uv":"no",
-"directlink": "https://fotlivepro.com",
- "playstore": "https://fotlivepro.com",
- "title": "အသိပေးခြင်း",
- "reason":"App တွင် ဘောပွဲ အားလုံး ကိုမှ ကြော်ငြာ တစ်ကြိမ်တည်းသာ ပြသထားပါတယ်",
- "dis":true,
+ "uv":"yes",
+"directlink": "https://fotlivepro.com/",
+ "playstore": "https://fotlivepro.com/",
+ "title": "Alert Update",
+ "reason":"New Version",
+ "dis":false,
  "backuponoff":"off",
 
 
